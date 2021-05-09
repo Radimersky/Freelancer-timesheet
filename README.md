@@ -5,11 +5,11 @@ application should support:
 
 ● Evidence of work done. Each time entry includes:
 
-  ○ Start time
+     ○ Start time
   
-  ○ End time
+     ○ End time
   
-  ○ Work type
+     ○ Work type
   
 ● Edit time entry:
 
